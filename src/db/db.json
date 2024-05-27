@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "name": "Winifred Gleichner",
+    "phone": "(611) 261-7921 x965",
+    "email": "Rex.Price@gmail.com",
+    "job": "Direct Research Manager"
+  },
+  {
+    "name": "Anne Wuckert",
+    "phone": "453.646.5253 x997",
+    "email": "Eladio_Reilly28@hotmail.com",
+    "job": "Principal Optimization Liaison"
+  },
+  {
+    "name": "Francis DuBuque DDS",
+    "phone": "729.845.2962 x2554",
+    "email": "Domenic79@yahoo.com",
+    "job": "Future Group Manager"
+  }
+]
