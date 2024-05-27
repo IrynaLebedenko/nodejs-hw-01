@@ -11,5 +11,4 @@ export const thanos = async () => {
         console.log(error);
     }
 };
-
 await thanos();
